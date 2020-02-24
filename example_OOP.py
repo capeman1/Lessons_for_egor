@@ -68,3 +68,6 @@ for spec in count:
     spec.jump()
     print(' ')
     
+print('igor lax ')
+print('igor lax ')
+print('igor lax ')
